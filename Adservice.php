@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name:   Adservice Service (Publisher)
- * Version:       0.0.2
+ * Version:       1.0.0
  * Plugin URI:    https://simplemediacode.com/
  * Description:   Getting data from Adservice API
  * Author:        Rolands Umbrovskis
